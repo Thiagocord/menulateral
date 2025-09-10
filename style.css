@@ -1,0 +1,38 @@
+
+
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+
+}
+
+body {
+    height: 100vh;
+}
+
+.menu-lateral {
+    width: 300px;
+    height: 100%;
+    background-color: #202020;
+    padding: 40px 0px 40px 2%;
+}
+
+.expandir {
+    width: 100px;
+    padding-left: 10px;
+}
+
+.expandir > img {
+    color: aliceblue;
+}
+
+
+
+
+
+
+
+
+
+
